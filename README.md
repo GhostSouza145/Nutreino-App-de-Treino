@@ -18,12 +18,13 @@
 
 ## Screenshots
 
-<p align="center">
-  <img src="<img width="378" height="798" alt="dashboard" src="https://github.com/user-attachments/assets/31c0f376-3c30-4d9e-8675-b1faf89494d5" />
-  <img src="<img width="375" height="802" alt="dieta" src="https://github.com/user-attachments/assets/44745031-ff2d-417e-bd84-0cf994221bab" />
-  <img src="<img width="377" height="800" alt="progresso" src="https://github.com/user-attachments/assets/38b113c1-0b32-4b08-801c-dd692ea2fde0" />
-  <img src="<img width="374" height="797" alt="treino" src="https://github.com/user-attachments/assets/9cb29d76-23bb-4239-bed0-b4c2358b36d2" />
-</p>
+<img width="378" height="798" alt="dashboard" src="https://github.com/user-attachments/assets/2457cd11-7b33-43d9-abb0-c375c5c9f916" />
+
+<img width="375" height="802" alt="dieta" src="https://github.com/user-attachments/assets/44c365e9-99a9-4ab1-89a5-960e21c51fc4" />
+
+ <img width="377" height="800" alt="progresso" src="https://github.com/user-attachments/assets/ba9e1266-cf9c-4f53-8dde-68a12ac35e1a" />
+
+<img width="374" height="797" alt="treino" src="https://github.com/user-attachments/assets/aa851734-0585-4b38-aef1-edbf7570548d" />
 
 ---
 
