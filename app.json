@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "NuTreino",
+    "slug": "snack-b97b68cb-67f4-47b8-a1b7-fbc321804959",
+    "scheme": "NuTreino",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/gym.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/gym.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nutreino.app",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/gym.png",
+        "backgroundColor": "#0D0F14"
+      },
+      "package": "com.nutreino.app"
+    },
+    "web": {
+      "favicon": "./assets/gym.png"
+    },
+    "description": "App de treino !\n",
+    "plugins": [
+      "expo-notifications",
+      "expo-local-authentication",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Permitir acesso à galeria para definir foto de perfil.",
+          "cameraPermission": "Permitir uso da câmera para tirar foto de perfil."
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationWhenInUsePermission": "Necessário para rastrear seu percurso de cardio no mapa.",
+          "locationAlwaysAndWhenInUsePermission": "Necessário para rastrear seu percurso de cardio no mapa."
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "cc5e8d02-96cb-4481-9409-74cfb8f4fda2"
+      }
+    }
+  }
+}
