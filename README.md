@@ -20,13 +20,9 @@
 
 <p align="center">
   <img src="<img width="378" height="798" alt="dashboard" src="https://github.com/user-attachments/assets/31c0f376-3c30-4d9e-8675-b1faf89494d5" />
-" width="22%" />
   <img src="<img width="375" height="802" alt="dieta" src="https://github.com/user-attachments/assets/44745031-ff2d-417e-bd84-0cf994221bab" />
-"22%" />
   <img src="<img width="377" height="800" alt="progresso" src="https://github.com/user-attachments/assets/38b113c1-0b32-4b08-801c-dd692ea2fde0" />
-"22%" />
   <img src="<img width="374" height="797" alt="treino" src="https://github.com/user-attachments/assets/9cb29d76-23bb-4239-bed0-b4c2358b36d2" />
-"22%" />
 </p>
 
 ---
